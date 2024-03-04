@@ -1,0 +1,9 @@
+[submodule "Libs/Foundation"]
+	path = Libs/Foundation
+	url = https://github.com/magedevorg/Foundation.git
+[submodule "Libs/Algorithm"]
+	path = Libs/Algorithm
+	url = https://github.com/magedevorg/Algorithm.git
+[submodule "Libs/Network"]
+	path = Libs/Network
+	url = https://github.com/magedevorg/Network.git
