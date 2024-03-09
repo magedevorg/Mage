@@ -7,3 +7,6 @@
 [submodule "Libs/Network"]
 	path = Libs/Network
 	url = https://github.com/magedevorg/Network.git
+[submodule "Libs/PathFinder"]
+	path = Libs/PathFinder
+	url = https://github.com/magedevorg/PathFinder.git
