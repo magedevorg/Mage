@@ -10,3 +10,6 @@
 [submodule "Libs/PathFinder"]
 	path = Libs/PathFinder
 	url = https://github.com/magedevorg/PathFinder.git
+[submodule "Libs/Math"]
+	path = Libs/Math
+	url = https://github.com/magedevorg/Math.git
