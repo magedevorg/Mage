@@ -13,3 +13,6 @@
 [submodule "Libs/Math"]
 	path = Libs/Math
 	url = https://github.com/magedevorg/Math.git
+[submodule "Libs/Collision"]
+	path = Libs/Collision
+	url = https://github.com/magedevorg/Collision.git
